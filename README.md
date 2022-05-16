@@ -25,5 +25,17 @@ yarn start
 npm run json-server
 ```
 
+### Create a repo in github and add your project to the repo as following :- :- 
+
+```
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/pattjoshi/CURD-react.git
+git push -u origin master
+
+```
+
 
  [I Learn from Hear](https://www.youtube.com/watch?v=eJyZ7k6lWfE&t=150s)
